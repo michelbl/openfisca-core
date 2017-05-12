@@ -1,5 +1,10 @@
 # Changelog
 
+## 12.1.1
+
+* Validate XML parameters with lxml and a XML Schema
+* Raise nicer errors during validation
+
 ## 12.1.0
 
 * Include the preview API into OpenFisca-Core
